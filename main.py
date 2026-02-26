@@ -73,7 +73,7 @@ if __name__ == '__main__':
             user_choice = int(user_choice)
             
             
-        # user choices an option
+        # user chooses an option
         if user_choice == 1:
             pythonLibrary.showBooks()
             
