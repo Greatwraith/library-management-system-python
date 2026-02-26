@@ -1,3 +1,5 @@
+**README.md is written by Claude AI**
+
 # 📚 Library Management System
 
 A lightweight, beginner-friendly library management system program built entirely with Python, no external dependencies required.
@@ -191,16 +193,6 @@ The entire system is powered by a single `Library` class with three core data st
 - **Data is not persistent** — All changes (added books, borrow records) reset when the program exits. There is no database or file storage.
 - **Case-sensitive input** — Book titles must be typed exactly as they appear.
 - **Single-copy tracking** — The system assumes one copy per book title.
-
----
-
-## 🛠️ Possible Future Improvements
-
-- [ ] Save data to a JSON or SQLite database for persistence
-- [ ] Case-insensitive book search
-- [ ] Support for multiple copies of the same book
-- [ ] Due dates and overdue tracking
-- [ ] A graphical user interface (GUI) or web interface
 
 ---
 
