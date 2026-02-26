@@ -1,6 +1,6 @@
 # 📚 Library Management System
 
-A lightweight, beginner-friendly command-line application for managing a personal or small-scale library — built entirely with Python, no external dependencies required.
+A lightweight, beginner-friendly library management system program built entirely with Python, no external dependencies required.
 
 ---
 
@@ -208,7 +208,7 @@ The entire system is powered by a single `Library` class with three core data st
 
 This project is a form of my final Python OOP course project. There are still many things to improve.
 Feel free to fork, improve, and make it your own!
-README.md is written by Claude AI with an engineered prompt.
+**README.md is written by Claude AI with an engineered prompt. Thanks to Claude AI for helping me.**
 
 ---
 
