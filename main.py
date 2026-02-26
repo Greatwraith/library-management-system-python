@@ -40,7 +40,21 @@ class Library:
 
 # EXECUTION WORK
 if __name__ == '__main__':
-    pythonLibrary = Library(['Python', 'C++', 'Java', 'Django', 'Flask'], 'Python') 
+    pythonLibrary = Library(
+    [
+        "Atomic Habits",
+        "Rich Dad Poor Dad",
+        "The Alchemist",
+        "Think and Grow Rich",
+        "How to Win Friends and Influence People",
+        "The Psychology of Money",
+        "Deep Work",
+        "The 7 Habits of Highly Effective People",
+        "Start With Why",
+        "The Subtle Art of Not Giving a F*ck"
+    ],
+    "Python"
+)
     
     while (True):
         print("Welcome to the {} Library. Please select an option.".format(pythonLibrary.name))
